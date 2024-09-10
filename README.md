@@ -1,10 +1,10 @@
 ## Web Portofolio
 
-Project: Membuat Website static
+Project: Membuat Website static.
 
-Menggunakan: Html dan css
+Menggunakan: Html dan css.
 
-Deploy menggunakan: CentOS
+Deploy menggunakan: CentOS.
 
 Cara mendeploy:
 
