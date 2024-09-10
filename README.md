@@ -1,7 +1,11 @@
 Project: Membuat Website static
+
 Menggunakan: Html dan css
+
 Deploy menggunakan: CentOS
+
 Cara mendeploy:
+
 A.Masuk ke CentOS
 B.Masuk ke direktori html 
 C.Clone repositori Contoh : git clone https://github.com/usernameanda/namarepositori.git
