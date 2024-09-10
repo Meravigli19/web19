@@ -1,5 +1,7 @@
 Project: Membuat Website static
 
+Web: Berisi tentang portofolio
+
 Menggunakan: Html dan css
 
 Deploy menggunakan: CentOS
