@@ -1,6 +1,6 @@
-Project: Membuat Website static
+#Web Portofolio
 
-Web: Berisi tentang portofolio
+Project: Membuat Website static
 
 Menggunakan: Html dan css
 
